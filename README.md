@@ -1,5 +1,7 @@
-# 💫 About Me:
-I'm a Computer Science student at George Mason University with experience in Python, Java, and full-stack web development. I enjoy working with the MERN stack and building projects that help me grow as a developer. In my free time, I also practice LeetCode to strengthen my problem-solving skills.
+Hello World! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Bao
+============================================================================================================================
+
+I'm a developer based in Virginia with experience in Python, Java, and full-stack web development. I enjoy working with the MERN stack, building full-stack applications, and tackling projects that help me grow as a developer. In my free time, I practice LeetCode to strengthen my problem-solving skills and I'm always learning new frameworks to expand my toolkit.
 
 
 ## 🌐 Socials:
