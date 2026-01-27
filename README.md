@@ -23,7 +23,7 @@ I'm a CS student at George Mason University with internship experience at **Goog
 
 <div align="left">
 
-# 💬 Let's Connect
+# 💬 Let's Connect!
 
 <p align="left">
   <a href="https://linkedin.com/in/baot1301"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
